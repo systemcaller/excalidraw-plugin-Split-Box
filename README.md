@@ -77,21 +77,13 @@ README.md – Documentation
 🎯 Example
 
 Before:
-
-+----------------------+
-|                      |
-|        Box           |
-|                      |
-+----------------------+
+<img width="509" height="305" alt="image" src="https://github.com/user-attachments/assets/91556c5f-b10a-4c63-aba9-e49e25ec98a1" />
 
 
 After (2 × 3 split):
 
-+---------+---------+---------+
-|         |         |         |
-+---------+---------+---------+
-|         |         |         |
-+---------+---------+---------+
+<img width="445" height="269" alt="image" src="https://github.com/user-attachments/assets/2a0e366c-90d6-48a2-8307-d336f0352e43" />
+
 
 🧩 Roadmap
 
