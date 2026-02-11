@@ -1,17 +1,3 @@
----
-category: Scripts
-uuid: PrhaZPR8MyrmYyJU
-title: Split Box
-aliases:
-  - Split Box
-priority: 10
-status: 已完成
-autosync-database: Obsidian
-view-count: 0
-date_created: 2026-02-08 01:52:41
-date_modified: 2026-02-08 01:52:41
-tags: []
----
 /*
 
 自定义脚本：对矩形框进行水平或者垂直方向的拆分，或同时进行水平和垂直拆分形成矩阵。
