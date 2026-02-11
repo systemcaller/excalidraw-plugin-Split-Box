@@ -1,5 +1,7 @@
 # Excalidraw Plugin: Split Box
 
+[English](README.md) | [简体中文](README.zh.md)
+
 *A simple yet powerful plugin for Excalidraw to split rectangular boxes into matrices.*
 
 [![GitHub Stars](https://img.shields.io/github/stars/SystemCaller/excalidraw-plugin-Split-Box?style=social)](https://github.com/SystemCaller/excalidraw-plugin-Split-Box/stargazers)
