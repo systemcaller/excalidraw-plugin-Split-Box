@@ -71,13 +71,13 @@ Here's a step-by-step example:
 - **Action**: Split horizontally into 2 parts.
 - **Output**: Two equal rows.
 
-<img width="580" height="300" alt="image" src="https://github.com/user-attachments/assets/91556c5f-b10a-4c63-aba9-e49e25ec98a1" />
+<img width="979" height="356" alt="image" src="https://github.com/user-attachments/assets/c847b64c-49ba-4db5-be16-2750f6f93353" />
 
 For a 2x3 matrix:
 
 - Select rectangle → Split horizontally (2) → Split vertically (3).
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/2a0e366c-90d6-48a2-8307-d336f0352e43" />
+<img width="978" height="364" alt="image" src="https://github.com/user-attachments/assets/bdb80100-4306-4e09-a9b9-454e24bc92e0" />
 
 For more advanced usage, refer to the [Split Box.md](Split%20Box.md) file in this repo, which includes detailed code snippets and configurations.
 
