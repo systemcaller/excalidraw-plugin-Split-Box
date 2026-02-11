@@ -106,6 +106,6 @@ If you find this plugin useful, give it a ⭐ on GitHub!
 
 ---
 
-*Last updated: February 2026*  
+*Last updated: February 2025*  
 *Author: SystemCaller*  
 *For support, open an issue on GitHub.*
