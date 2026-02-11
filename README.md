@@ -102,7 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with love for the Excalidraw community.
 - Inspired by common diagramming needs in productivity tools.
-- Thanks to contributors: [List if any].
+- Thanks to contributors: []
 
 If you find this plugin useful, give it a ⭐ on GitHub!
 
