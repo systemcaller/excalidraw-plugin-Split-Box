@@ -1,8 +1,7 @@
----
-view-count: 1
----
 
 # Excalidraw 插件：Split Box
+
+[English](README.md) | [简体中文](README.zh.md)
 
 *一个简单而强大的 Excalidraw 插件，用于将矩形框分割成矩阵结构。*
 
